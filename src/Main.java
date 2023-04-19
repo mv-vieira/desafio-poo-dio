@@ -35,7 +35,6 @@ public class Main {
         devMatheus.progredir();
         devMatheus.progredir();
         devMatheus.progredir();
-        devMatheus.progredir();
         System.out.println("Conteúdos Inscritos após progressão Matheus: " + devMatheus.getConteudosInscritos());
         System.out.println("Conteúdos Concluídos Matheus: " + devMatheus.getConteudosConcluidos());
         System.out.println("Xp atual: " + devMatheus.calcularTotalXp());
